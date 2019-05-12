@@ -1,5 +1,5 @@
 # LTFS_AnalyticsVidhya
-This repository contains our team's[Fools]([Sanchit Singh](https://bit.ly/2JAuK9l) & me) solutions for the [LTFS Data Science FinHack(https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon)] (ML Hackathon) organized by Analytics Vidhya.
+This repository contains our team's[Fools]([Sanchit Singh](https://bit.ly/2JAuK9l) & me) solutions for the [LTFS Data Science FinHack](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon) (ML Hackathon) organized by Analytics Vidhya.
 
 ## Problem Statement 
 Financial institutions incur significant losses due to the default of vehicle loans. This has led to the tightening up of vehicle loan underwriting and increased vehicle loan rejection rates. The need for a better credit risk scoring model is also raised by these institutions. This warrants a study to estimate the determinants of vehicle loan default. A financial institution has hired you to accurately predict the probability of loanee/borrower defaulting on a vehicle loan in the first EMI (Equated Monthly Installments) on the due date. Following Information regarding the loan and loanee are provided in the datasets:
