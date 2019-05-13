@@ -28,8 +28,8 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 Test data is further randomly divided into Public (25%) and Private (75%) data. The final rankings would be based on your private score which will be published once the competition is over.
 
 ## Leaderboard
- - [Public Score & Rank](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/lb) -  	0.6652878571 & 26/1341
- - [Private Score & Rank](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/pvt_lb) -  	0.6694836578 & 16/1341
+ - [Public LB Score & Rank](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/lb) -  	0.6652878571 & 26/1341
+ - [Private LB Score & Rank](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/pvt_lb) -  	0.6694836578 & 16/1341
  
  ## Approach
  
